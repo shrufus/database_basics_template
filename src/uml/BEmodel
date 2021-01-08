@@ -1,0 +1,33 @@
+@startuml 
+entity User #ffaaff
+entity User.email #ffaaff
+entity User.password #ffaaff
+entity User.avatar #ffaaff
+
+entity Role #ffaaff
+entity Role.name #ffaaff
+entity Role.desciption #ffaaff
+
+entity Request #ffaaff
+entity Request.name #ffaaff
+entity Request.description #ffaaff
+
+entity Branch #ffaaff
+entity Branch.name #ffaaff
+
+User.email -d-* User
+User.password -d-* User
+User.avatar -d-* User
+
+Role.name -r-* Role
+Role.desciption -r-* Role
+
+Request.name -d-* Request
+Request.description -l-* Request
+
+Branch.name -l-* Branch
+
+User "(0,*)"-l-"(1,1)" Role
+User "0,*"-r-"1,1" Request
+
+@enduml
