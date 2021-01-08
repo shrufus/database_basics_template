@@ -87,3 +87,39 @@
 В інтернеті існує велика кількість інформації і дуже важливо правильно її обробити і зробити коректні висновки.
 Представлені сервіси використовують основний массив інструментів, які є основоположними для сбору та аналізу цієї інформації.
 
+## Посиланя
+
+[Медіа данні](https://uk.wikipedia.org/wiki/Медіа)
+
+[Засоби масової інформацфї](https://uk.wikipedia.org/wiki/Засоби_масової_інформації)
+
+[Соціальні медіа](https://uk.wikipedia.org/wiki/Соціальні_медіа)
+
+[Контент](https://uk.wikipedia.org/wiki/Інформаційне_наповнення_сайту) 
+
+[Контент-аналіз](https://uk.wikipedia.org/wiki/Контент-аналіз)
+
+[Парсинг](https://uk.wikipedia.org/wiki/Синтаксичний_аналіз) 
+
+[Big Data](https://uk.wikipedia.org/wiki/Великі_дані)
+
+[Data Mining](https://uk.wikipedia.org/wiki/Добування_даних)
+
+[Text Mining](https://uk.wikipedia.org/wiki/Інтелектуальний_аналіз_тексту)
+
+[Natural Language Processing](https://uk.wikipedia.org/wiki/Обробка_природної_мови)
+
+[Deep learning](https://uk.wikipedia.org/wiki/Глибинне_навчання)
+
+[Named-entity recognition](https://uk.wikipedia.org/wiki/Розпізнавання_іменованих_сутностей)
+
+[Semantrum](https://promo.semantrum.net/uk/main-ua/)
+
+[Neticle Media Intelligence](https://neticle.com/mediaintelligence/ua)
+
+[YouScan](https://youscan.io/ua/)
+
+[ukrcontent](https://ukrcontent.com/about.html)
+
+[SemanticForce](https://www.semanticforce.net)
+
