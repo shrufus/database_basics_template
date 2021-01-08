@@ -5,4 +5,4 @@
 Тема: Система аналізу медіа-контенту 
 
 * Єлісєєв Максим
-  zettssed@gmail.com
+...zettssed@gmail.com
