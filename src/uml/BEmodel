@@ -1,4 +1,4 @@
-@startuml 
+@startuml
 entity User #ffaaff
 entity User.email #ffaaff
 entity User.password #ffaaff
@@ -7,27 +7,49 @@ entity User.avatar #ffaaff
 entity Role #ffaaff
 entity Role.name #ffaaff
 entity Role.desciption #ffaaff
+entity Role.access #ffaaff
 
-entity Request #ffaaff
-entity Request.name #ffaaff
-entity Request.description #ffaaff
+entity Access #ffaaff
 
-entity Branch #ffaaff
-entity Branch.name #ffaaff
+entity Order #ffaaff
+entity Order.id #ffaaff
+entity Order.name #ffaaff
+entity Order.description #ffaaff
+
+entity Answer #ffaaff
+entity Answer.id #ffaaff
+entity Answer.text #ffaaff
+
+entity Analyst #fff
+entity Manager #fff
+entity Client #fff
 
 User.email -d-* User
 User.password -d-* User
 User.avatar -d-* User
 
-Role.name -r-* Role
-Role.desciption -r-* Role
+Role.name -d-* Role
+Role.desciption -d-* Role
+Role.access -u-* Role
 
-Request.name -d-* Request
-Request.description -l-* Request
+Order.name -d-* Order
+Order.description -l-* Order
+Order.id -l-* Order
 
-Branch.name -l-* Branch
+Answer -u-> Order
+Answer.id -u-* Answer
+Answer.text -u-* Answer
+
+Order.id o- Answer.id
+
+Access -l-> Order
+Access -u-> User
+Role.access -r-* Access
+
+Analyst .u.> Role.access
+Manager .u.> Role.access
+Client .u.> Role.access
 
 User "(0,*)"-l-"(1,1)" Role
-User "0,*"-r-"1,1" Request
-
+User "0,*"-r-"1,1" Order
 @enduml
