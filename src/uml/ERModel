@@ -1,0 +1,42 @@
+@startuml
+
+
+entity Access #ffaaff{
+    role: text 
+}
+
+entity User #ffaaff{
+    email: email
+    password: password
+    avatar: url
+}
+
+entity Role #ffaaff{
+    name: text 
+    description: text
+    Access: text
+
+}
+
+entity Answer #ffaaff{
+    id: int
+    text: text      
+}
+
+entity Order #ffaaff{
+    id: int
+    name: text
+    description: text
+}
+
+Order "0,*" -u-> "1,1" User
+Answer "0,*"-u-> "1,1" Order
+
+
+Access "1,1" -l-> "1,1" Order
+Access "0,*" -u-> "1,1" User
+
+Role "1,1"--"0,*" User
+
+
+@enduml
