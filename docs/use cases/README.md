@@ -18,7 +18,7 @@
 * Менеджер перевіряє технічне завдання на коректність
 * Менеджер повідомляє Клієнта, щодо можливості виконання запиту системою
 
-!["Діаграма"](http://www.plantuml.com/plantuml/proxy?src=https://github.com/shrufus/media_content_analysis/blob/master/src/uml/UC.1)
+!["Діаграма"](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/shrufus/media_content_analysis/master/src/uml/UC.1)
 
 ***ID:*** SС.02
     
