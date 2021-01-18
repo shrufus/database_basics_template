@@ -39,4 +39,4 @@
 * Менеджер перевіряє технічне завдання на коректність
 * Менеджер повідомляє Клієнта, щодо можливості виконання запиту системою
 
-![Діаграмма2](https://www.planttext.com/api/plantuml/img/XP91JW9144NtVOfEt1eJjs0CBZo3RZ4EGgAWqEnc0ODXPK8q11EZ4cym8E04cE4AlsxahnutAj7UJ7TN_glwVxhKSkMcQrzT6XFY2IiPoH2fHA7n1LF02sA9a4WNI-w6bfyK6JPOIizA1tCPIbSYxcBfKpuecd3dgEvgD-tWf5fpGOWtbHConnfnc3CnypIvHKRfcYpUp2svcS9aX8dsiPXgNtpaKrYCqSVzhlMygTScUM75eTufIotFiO9Y5ZDQkYl-z5R0GqwLdZhwOlw7-6LZJFCC05EIEpBuPgTewWqNs6RjekhiJgLIvZ87PuSMpoGks2lH-VtLyUdUlWdgvrObVyIpaW67ue0pRrwRBpGr1fMojELdF6wn_khhYKBL_8mTLDB3nX-iJsQYCH0NgPEMQrmRK-A4_g5y0W00)
+![Діаграмма2](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/shrufus/media_content_analysis/master/src/uml/UC.2)
