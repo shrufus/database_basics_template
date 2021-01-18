@@ -4,11 +4,11 @@
 
 ## BE-модель
 
-![BEModel](http://www.plantuml.com/plantuml/png/RP7HQWCX44NVvoiM-vA4k3G_45BwN0g5Vi0GtIAuRb2tQVw-nhZCRFJHSuTxnxcd4D77URIWNJJnrdq7xRkNOK0S1ivwFQAnJUM28LmdhveY_c94Sboqhydg1NBMEnpRWjBXR2xHJAufu_ciGwXotjhuqol-JGPxezgyNgmeUJFFL-FvBbnv4j4wYeIe_sB32kqjt3dDVw337-rNxDqQxSeOiEgaahlS2QnR8yuB8mhKIuRt9pnNmXLgGyuB1NR4F9lVK1zGsYVHACwW73Gv7mkYO-QunnFu9JadrqbI3yctR6p9jv2Kb0-n_fbFbey9WAMPVkwF7Pk2Kayjb8ugdYlenEPrlziAQQNO7FQ7hSWpHKkIIEaY2Q9iUj9EpQFz1m00)
+![BEModel](http://www.plantuml.com/plantuml/proxy?idx=0&src=https://raw.githubusercontent.com/shrufus/media_content_analysis/master/src/uml/BEmodel)
 
 ## ER-модель
 
-![ERModel](http://www.plantuml.com/plantuml/png/TP11QiCm44NtSuh1tPK8cgqM9Jb1eT0339OC0baEcb7JKdhts1fZ58EriVtc_w_lkR1GbZ960F19WlpYjUyzCxuC0z4m_07E9q_HMnJ_8mZ_c_ABVNxM-P52jFgeu4RCzoaxkxrLJDyab2sM79kyp_cMvxn4utRlykqyzpdS94n9SQNQU0LDtZNnVTymE8iXgM_Hh-drDDQFx8wTRQ-3MdEIHdHlfzSEJJ7ls9rFvwuk3RIP3fjPjG20_j0AJTpDTNgG3CiI5HYZ4kLmyScLCJu0)
+![ERModel](http://www.plantuml.com/plantuml/proxy?idx=0&src=https://raw.githubusercontent.com/shrufus/media_content_analysis/master/src/uml/ERModel)
 
 ## Реляційна схема 
 
