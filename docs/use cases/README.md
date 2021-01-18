@@ -18,7 +18,7 @@
 * Менеджер перевіряє технічне завдання на коректність
 * Менеджер повідомляє Клієнта, щодо можливості виконання запиту системою
 
-!["Діаграма"](http://www.plantuml.com/plantuml/png/XP51JeDW48Ntd68Eu0difbSnqPswqBfZOK5ZJ8pT41R6Gv16B2dbvmhltSWtamP9DsKrmtiptnjOFgwk7bPFTxTPZY_qh5bXO95dTdn2dxfBcxiC8re-eyKF6bQ6RvL3jByki3GMAbvbhldcac671biVK3jmSs5yGTAI0qjVCHxt7T0A4Ax6YTYnN4IE_1IJp-ATQlyHjwoLQCFgV2Ppg66F59Dx5c5Ui-37uWmiEKWlaYxe0pV_OcXqxxj46KoEfC4UdU0frjUcidCoXYbDn1lHII-DQnMoYgfnVavvikND_RL-v1y0)
+!["Діаграма"](http://www.plantuml.com/plantuml/proxy?idx=0&src=https://github.com/shrufus/media_content_analysis/blob/master/src/uml/UC.1)
 
 ***ID:*** SС.02
     
