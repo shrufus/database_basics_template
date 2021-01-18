@@ -12,4 +12,4 @@
 
 ## Реляційна схема 
 
-![BDModel](../design/BDmodel.png)
+![BDModel](../design/BDmodel.png) 
